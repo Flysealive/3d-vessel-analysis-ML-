@@ -1,0 +1,121 @@
+血管壁實體化檔案完整清單
+================================================================================
+生成日期：2025-08-24
+總檔案數：88個STL檔案
+
+整合目錄：/Users/julie/folder/vessel/STL_solid_converted/all_solid_files/
+================================================================================
+
+來源統計：
+- 測試階段（demo）：5個檔案
+- 批次處理階段：87個檔案
+- 總計：88個檔案（其中3個檔案在測試階段重複處理）
+
+重複處理的檔案：
+- 3DModel1038604_bottom_crop_solid.stl
+- 3DModel103861_bottom_crop_solid.stl  
+- 3DModel1185905_bottom_crop_solid.stl
+
+特殊檔案：
+- 3DModel1185905_solid.stl（原始未裁剪版本）
+
+================================================================================
+完整檔案清單（按字母順序）：
+================================================================================
+
+1. 3DModel1038604_bottom_crop_solid.stl
+2. 3DModel103861_bottom_crop_solid.stl
+3. 3DModel104343_bottom_crop_solid.stl
+4. 3DModel1059213_bottom_crop_solid.stl
+5. 3DModel1061940_bottom_crop_solid.stl
+6. 3DModel107908_bottom_crop_solid.stl
+7. 3DModel1091868_bottom_crop_solid.stl
+8. 3DModel109959_bottom_crop_solid.stl
+9. 3DModel1118393_bottom_crop_solid.stl
+10. 3DModel1136267_bottom_crop_solid.stl
+11. 3DModel1185905_bottom_crop_solid.stl
+12. 3DModel1185905_solid.stl (原始版本)
+13. 3DModel1200405_bottom_crop_solid.stl
+14. 3DModel1201034_bottom_crop_solid.stl
+15. 3DModel1203537_bottom_crop_solid.stl
+16. 3DModel1230607_bottom_crop_solid.stl
+17. 3DModel1269161_bottom_crop_solid.stl
+18. 3DModel1309409_bottom_crop_solid.stl
+19. 3DModel1312713_bottom_crop_solid.stl
+20. 3DModel1314142_bottom_crop_solid.stl
+21. 3DModel1336819_bottom_crop_solid.stl
+22. 3DModel1346134_bottom_crop_solid.stl
+23. 3DModel135376_bottom_crop_solid.stl
+24. 3DModel1354849_bottom_crop_solid.stl
+25. 3DModel1375066_bottom_crop_solid.stl
+26. 3DModel138547_bottom_crop_solid.stl
+27. 3DModel1413000_bottom_crop_solid.stl
+28. 3DModel1419217_bottom_crop_solid.stl
+29. 3DModel146862_bottom_crop_solid.stl
+30. 3DModel1531358_bottom_crop_solid.stl
+31. 3DModel1535286_bottom_crop_solid.stl
+32. 3DModel1619851_bottom_crop_solid.stl
+33. 3DModel162033_bottom_crop_solid.stl
+34. 3DModel1625983_bottom_crop_solid.stl
+35. 3DModel1633455_bottom_crop_solid.stl
+36. 3DModel1646521_bottom_crop_solid.stl
+37. 3DModel1648569_bottom_crop_solid.stl
+38. 3DModel1749388_bottom_crop_solid.stl
+39. 3DModel1752410_bottom_crop_solid.stl
+40. 3DModel1848987_bottom_crop_solid.stl
+41. 3DModel1863086_bottom_crop_solid.stl
+42. 3DModel1957386_bottom_crop_solid.stl
+43. 3DModel197142_bottom_crop_solid.stl
+44. 3DModel216233_bottom_crop_solid.stl
+45. 3DModel231355_bottom_crop_solid.stl
+46. 3DModel248186_bottom_crop_solid.stl
+47. 3DModel258277_bottom_crop_solid.stl
+48. 3DModel268731_bottom_crop_solid.stl
+49. 3DModel324634_bottom_crop_solid.stl
+50. 3DModel377845_bottom_crop_solid.stl
+51. 3DModel392456_bottom_crop_solid.stl
+52. 3DModel408978_bottom_crop_solid.stl
+53. 3DModel418748_bottom_crop_solid.stl
+54. 3DModel432325_bottom_crop_solid.stl
+55. 3DModel433531_bottom_crop_solid.stl
+56. 3DModel457469_bottom_crop_solid.stl
+57. 3DModel468290_bottom_crop_solid.stl
+58. 3DModel483916_bottom_crop_solid.stl
+59. 3DModel491640_bottom_crop_solid.stl
+60. 3DModel497205_bottom_crop_solid.stl
+61. 3DModel501533_bottom_crop_solid.stl
+62. 3DModel5039526_bottom_crop_solid.stl
+63. 3DModel5042484_bottom_crop_solid.stl
+64. 3DModel505628_bottom_crop_solid.stl
+65. 3DModel5095066_bottom_crop_solid.stl
+66. 3DModel5120238_bottom_crop_solid.stl
+67. 3DModel5136679_bottom_crop_solid.stl
+68. 3DModel5159034_bottom_crop_solid.stl
+69. 3DModel553337_bottom_crop_solid.stl
+70. 3DModel648988_bottom_crop_solid.stl
+71. 3DModel665166_bottom_crop_solid.stl
+72. 3DModel687056_bottom_crop_solid.stl
+73. 3DModel697442_bottom_crop_solid.stl
+74. 3DModel698129_bottom_crop_solid.stl
+75. 3DModel717649_bottom_crop_solid.stl
+76. 3DModel722186_bottom_crop_solid.stl
+77. 3DModel758285_bottom_crop_solid.stl
+78. 3DModel774886_bottom_crop_solid.stl
+79. 3DModel801775_bottom_crop_solid.stl
+80. 3DModel822993_bottom_crop_solid.stl
+81. 3DModel838552_bottom_crop_solid.stl
+82. 3DModel845764_bottom_crop_solid.stl
+83. 3DModel847489_bottom_crop_solid.stl
+84. 3DModel872531_bottom_crop_solid.stl
+85. 3DModel895314_bottom_crop_solid.stl
+86. 3DModel924218_bottom_crop_solid.stl
+87. 3DModel934455_bottom_crop_solid.stl
+88. 3DModel997482_bottom_crop_solid.stl
+
+================================================================================
+備註：
+1. 所有檔案均已成功從中空血管壁轉換為實體結構
+2. 體積增加比例約 1.10-1.24 倍
+3. 檔案命名規則：原始檔名_bottom_crop_solid.stl
+4. 特殊檔案 3DModel1185905_solid.stl 是未裁剪的原始血管實體化版本
+================================================================================

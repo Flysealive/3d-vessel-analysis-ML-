@@ -1,0 +1,105 @@
+STL Solid to Smooth Conversion Report
+============================================================
+處理時間: 2025-08-25 20:27:06
+總耗時: 50.73秒
+輸入目錄: /Users/julie/folder/vessel/STL_solid_converted/all_solid_files
+輸出目錄: /Users/julie/folder/vessel/STL_smooth_solid
+總檔案數: 94
+成功: 94
+失敗: 0
+
+成功處理的檔案:
+  - 3DModel1038604_bottom_crop_solid.stl
+  - 3DModel103861_bottom_crop_solid.stl
+  - 3DModel104343_bottom_crop_solid.stl
+  - 3DModel1059213_bottom_crop_solid.stl
+  - 3DModel1061940_bottom_crop_solid.stl
+  - 3DModel107908_bottom_crop_solid.stl
+  - 3DModel1091868_bottom_crop_solid.stl
+  - 3DModel109959_bottom_crop_solid.stl
+  - 3DModel1118393_bottom_crop_solid.stl
+  - 3DModel1136267_bottom_crop_solid.stl
+  - 3DModel1164337_solid.stl
+  - 3DModel1171276_solid.stl
+  - 3DModel1185905_bottom_crop_solid.stl
+  - 3DModel1200405_bottom_crop_solid.stl
+  - 3DModel1201034_bottom_crop_solid.stl
+  - 3DModel1203537_bottom_crop_solid.stl
+  - 3DModel1230607_bottom_crop_solid.stl
+  - 3DModel1269161_bottom_crop_solid.stl
+  - 3DModel1309409_bottom_crop_solid.stl
+  - 3DModel1312713_bottom_crop_solid.stl
+  - 3DModel1314142_bottom_crop_solid.stl
+  - 3DModel1336819_bottom_crop_solid.stl
+  - 3DModel1336911_solid.stl
+  - 3DModel1346134_bottom_crop_solid.stl
+  - 3DModel135376_bottom_crop_solid.stl
+  - 3DModel1354849_bottom_crop_solid.stl
+  - 3DModel1375066_bottom_crop_solid.stl
+  - 3DModel138547_bottom_crop_solid.stl
+  - 3DModel1413000_bottom_crop_solid.stl
+  - 3DModel1419217_bottom_crop_solid.stl
+  - 3DModel146862_bottom_crop_solid.stl
+  - 3DModel1531358_bottom_crop_solid.stl
+  - 3DModel1535286_bottom_crop_solid.stl
+  - 3DModel1619851_bottom_crop_solid.stl
+  - 3DModel162033_bottom_crop_solid.stl
+  - 3DModel1625983_bottom_crop_solid.stl
+  - 3DModel1633455_bottom_crop_solid.stl
+  - 3DModel1646521_bottom_crop_solid.stl
+  - 3DModel1648569_bottom_crop_solid.stl
+  - 3DModel1656300_solid.stl
+  - 3DModel1673078_solid.stl
+  - 3DModel1679377_solid.stl
+  - 3DModel1749388_bottom_crop_solid.stl
+  - 3DModel1752410_bottom_crop_solid.stl
+  - 3DModel1831664_solid.stl
+  - 3DModel1848987_bottom_crop_solid.stl
+  - 3DModel1863086_bottom_crop_solid.stl
+  - 3DModel1957386_bottom_crop_solid.stl
+  - 3DModel197142_bottom_crop_solid.stl
+  - 3DModel216233_bottom_crop_solid.stl
+  - 3DModel231355_bottom_crop_solid.stl
+  - 3DModel248186_bottom_crop_solid.stl
+  - 3DModel258277_bottom_crop_solid.stl
+  - 3DModel268731_bottom_crop_solid.stl
+  - 3DModel324634_bottom_crop_solid.stl
+  - 3DModel377845_bottom_crop_solid.stl
+  - 3DModel392456_bottom_crop_solid.stl
+  - 3DModel408978_bottom_crop_solid.stl
+  - 3DModel418748_bottom_crop_solid.stl
+  - 3DModel432325_bottom_crop_solid.stl
+  - 3DModel433531_bottom_crop_solid.stl
+  - 3DModel457469_bottom_crop_solid.stl
+  - 3DModel468290_bottom_crop_solid.stl
+  - 3DModel483916_bottom_crop_solid.stl
+  - 3DModel491640_bottom_crop_solid.stl
+  - 3DModel497205_bottom_crop_solid.stl
+  - 3DModel501533_bottom_crop_solid.stl
+  - 3DModel5039526_bottom_crop_solid.stl
+  - 3DModel5042484_bottom_crop_solid.stl
+  - 3DModel505628_bottom_crop_solid.stl
+  - 3DModel5095066_bottom_crop_solid.stl
+  - 3DModel5120238_bottom_crop_solid.stl
+  - 3DModel5136679_bottom_crop_solid.stl
+  - 3DModel5159034_bottom_crop_solid.stl
+  - 3DModel553337_bottom_crop_solid.stl
+  - 3DModel648988_bottom_crop_solid.stl
+  - 3DModel665166_bottom_crop_solid.stl
+  - 3DModel687056_bottom_crop_solid.stl
+  - 3DModel697442_bottom_crop_solid.stl
+  - 3DModel698129_bottom_crop_solid.stl
+  - 3DModel717649_bottom_crop_solid.stl
+  - 3DModel722186_bottom_crop_solid.stl
+  - 3DModel758285_bottom_crop_solid.stl
+  - 3DModel774886_bottom_crop_solid.stl
+  - 3DModel801775_bottom_crop_solid.stl
+  - 3DModel822993_bottom_crop_solid.stl
+  - 3DModel838552_bottom_crop_solid.stl
+  - 3DModel845764_bottom_crop_solid.stl
+  - 3DModel847489_bottom_crop_solid.stl
+  - 3DModel872531_bottom_crop_solid.stl
+  - 3DModel895314_bottom_crop_solid.stl
+  - 3DModel924218_bottom_crop_solid.stl
+  - 3DModel934455_bottom_crop_solid.stl
+  - 3DModel997482_bottom_crop_solid.stl
